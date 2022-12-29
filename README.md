@@ -1,4 +1,4 @@
-# Telegram Bot, built on Deta 🤖
+# 🌟 Telegram Bot, built to Deta 🌟
 
 Say hello to the Telegram Bot template! Built on the [grammY](https://grammy.dev/) framework and hosted by the [Deya](https://deta.sh/) serverless platform.
 
