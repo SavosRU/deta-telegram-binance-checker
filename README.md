@@ -1,4 +1,4 @@
-# Telegram Bot, built on Cyclic 🤖
+# Telegram Bot, built on Deta 🤖
 
 Say hello to the Telegram Bot template! Built on the [grammY](https://grammy.dev/) framework and hosted by the [Deya](https://deta.sh/) serverless platform.
 
@@ -20,7 +20,7 @@ Make sure that you have the following programs installed on your own local machi
 Take your new Telegram bot live with one click. \
 **Free hosting. No credit card required.**
 
-[![Deploy to Deta](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/telegram-bot)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/SavosRU/deta-telegram-binance-checker)
 
 <p align="center"><img src="assets/deploying-to-cyclic.gif" alt="Deploying an app to Cyclic" /></p>
 
