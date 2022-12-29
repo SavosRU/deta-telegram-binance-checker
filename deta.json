@@ -27,6 +27,5 @@
             "value": "PRODUCTION",
             "required": true
         }
-    ],
-    "cron": "default cron expression (for eg. 3 minutes)"
+    ]
 }
