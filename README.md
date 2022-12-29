@@ -17,7 +17,6 @@ Make sure that you have the following programs installed on your own local machi
 ### Step 1 — Prepare environment variables
 
 1. Grab your Telegram bot's API token by sending a message to [\@BotFather](https://telegram.me/BotFather).
-<p align="center"><img src="./assets/creating-telegram-bot-api-token.gif" alt="Send /newbot to @BotFather to create a new bot and get its API token." /></p>
 
 2. Add that Telegram-Token, Binance API-Key and Binance API-Secret in process of deploying to Deta.
 
