@@ -1,0 +1,18 @@
+{
+	"name": "deta-telegram-binance-checker",
+	"author": "SavosRU",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"start": "node index.js"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	},
+	"dependencies": {
+		"ccxt": "^2.4.71",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"grammy": "^1.11.2"
+	}
+}

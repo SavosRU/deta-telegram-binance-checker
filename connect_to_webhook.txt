@@ -1,0 +1,17 @@
+
+//===================================================
+
+CONNECT WebHook
+curl "https://api.telegram.org/bot$TELEGRAM_API_TOKEN/setWebhook?url=$TELEGRAM_WEBHOOK_URL"
+
+//===================================================
+
+DISCONNECT WebHook (remove)
+curl "https://api.telegram.org/bot$TELEGRAM_API_TOKEN/deleteWebhook"
+
+//===================================================
+
+
+P.S.
+    TELEGRAM_API_TOKEN=... # YOUR TELEGRAM API TOKEN
+    TELEGRAM_WEBHOOK_URL=... # YOUR DETA DEPLOYMENT URL

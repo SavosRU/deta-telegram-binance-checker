@@ -1,0 +1,32 @@
+{
+    "name": "Deta Telegram Binance Checker",
+    "description": "your app description", 
+    "runtime": "micro's runtime",
+    "env": [
+        {
+            "key": "TELEGRAM_TOKEN",
+            "description": "Token from your chat with BotFather",
+            "value": "Don't forget to change this var!",
+            "required": true
+        },
+        {
+            "key": "API_KEY",
+            "description": "Your Binance API-Key for Binance USDT-Futures",
+            "value": "Don't forget to change this var!",
+            "required": true
+        },
+        {
+            "key": "API_SECRET",
+            "description": "Your Binance API-Secret for Binance USDT-Futures",
+            "value": "Don't forget to change this var!",
+            "required": true
+        },
+        {
+            "key": "NODE_ENV",
+            "description": "Node JS Runtime Environment Mode",
+            "value": "PRODUCTION",
+            "required": true
+        }
+    ],
+    "cron": "default cron expression (for eg. 3 minutes)"
+}
