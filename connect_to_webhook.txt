@@ -2,7 +2,7 @@
 //===================================================
 
 CONNECT WebHook
-curl "https://api.telegram.org/bot5551850987:AAG9Hpy3sCNQPOk933M-DUzbpBZuOQMs3-U/setWebhook?url=https://sy6dxv.deta.dev/"
+curl "https://api.telegram.org/bot$TELEGRAM_API_TOKEN/setWebhook?url=$TELEGRAM_WEBHOOK_URL"
 
 //============================= ======================
 
