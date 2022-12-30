@@ -40,3 +40,5 @@ Take your new Telegram bot live with one click. \
 <center>
 <img src="./assets/video-manuals-1.png"></img>
 </center>
+
+https://github.com/SavosRU/deta-telegram-binance-checker/blob/main/assets/manual_RU_part1.mp4
