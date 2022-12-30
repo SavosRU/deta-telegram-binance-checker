@@ -27,3 +27,4 @@ Take your new Telegram bot live with one click. \
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/SavosRU/deta-telegram-binance-checker)
 
+<video controls><source src="./assets/manual_RU_part1.mp4" type="video/mp4"></video>
