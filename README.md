@@ -27,4 +27,8 @@ Take your new Telegram bot live with one click. \
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/SavosRU/deta-telegram-binance-checker)
 
-<video controls><source src="./assets/manual_RU_part1.mp4" type="video/mp4"></video>
+### Русский Видео-Мануал
+При установке и дальнейшей настройке могут возникнуть некоторые сложности. По этой причине добавляю два видео-ролика с пошаговым прохождением этого "квеста" ;-)
+Они лежат в папке <b>assets</b>
+Скачайте их к себе и посмотрите. Видео не профессиональные - просто писал для своего знакомого. Так что уж не судите строго...
+<img src="./assets/video-manuals.png"></img>
